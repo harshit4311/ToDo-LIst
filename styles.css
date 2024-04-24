@@ -5,7 +5,7 @@
  }
  
  body {
-   background-image: url("Background.jpeg");
+   background-image: url("Wallpaper.jpeg");
    background-size: 99%; /* You can adjust the percentage to zoom out more */
    background-repeat: no-repeat;
    background-position: center center; /* Centers the background image */
